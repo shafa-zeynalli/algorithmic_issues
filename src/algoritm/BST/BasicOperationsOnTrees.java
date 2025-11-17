@@ -1,8 +1,6 @@
 package algoritm.BST;
 
 
-import com.sun.source.tree.Tree;
-
 public class BasicOperationsOnTrees {
 
     public static void main(String[] args) {
